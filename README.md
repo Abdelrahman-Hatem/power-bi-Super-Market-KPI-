@@ -54,10 +54,10 @@ https://github.com/Abdelrahman-Hatem/power-bi-Super-Market-KPI-/assets/60587162/
 
 
 2. **Second Page: Analysis**
-   - Product Line Analysis (scatter chart)
-   - Orders by Gender (Male, Female)
-   - Customer Type (Member, Normal)
-   - Orders by City (Yangon, Mandalay, Naypyitaw)
+   - Product Line Analysis 
+   - Orders by Gender 
+   - Customer Type 
+   - Orders by City 
    - Total COGS
    - Customer Rating
    - Daily Distribution (Day and Hour)
@@ -68,8 +68,8 @@ https://github.com/Abdelrahman-Hatem/power-bi-Super-Market-KPI-/assets/60587162/
 3. **Third Page: Detailed Order View**
    - Contains detailed order information
    - Slicer functionality available to filter data by:
-   - Payment Method (Cash, Credit Card, E-wallet)
-   - Customer Type (Member, Normal)
+   - Payment Method 
+   - Customer Type 
    - Product Line
      
  ![3](https://github.com/Abdelrahman-Hatem/power-bi-Super-Market-KPI-/assets/60587162/8670505e-08bf-4c23-a421-fbab51503b25)
