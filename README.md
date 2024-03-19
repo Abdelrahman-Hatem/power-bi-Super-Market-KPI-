@@ -10,6 +10,12 @@
 ## Objective
 - The primary objective of this dashboard is to provide stakeholders, including managers, executives, and analysts, with actionable insights derived from pertinent KPIs. By consolidating and visualizing data related to sales, customer interactions, and product performance, the dashboard aims to facilitate informed decision-making and strategic planning within the supermarket environment.
 
+
+## Tools Used:
+#### - Power BI was employed for data visualization and analysis due to its capability to handle large datasets and create interactive reports.
+#### - Figma: Utilized for designing and prototyping dashboard layouts and user interface elements.
+
+
 ## Questions
 #### 1. **Sales Performance:**
    - Overall sales trends over time and by product category.
